@@ -1,0 +1,10 @@
+.idea
+target/
+data/
+*.class
+*.jar
+*.log
+*.iml
+.classpath
+.env
+.sbtopts
